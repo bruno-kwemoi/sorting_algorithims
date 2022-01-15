@@ -3,7 +3,7 @@
 /**
  * swap - swaps two integers)
  *@xp : pointer to the first integer to be swapped
- *@xp : pointer to the second integer to be swapped
+ *@yp : pointer to the second integer to be swapped
  */
 void swap(int *xp, int *yp)
 {
